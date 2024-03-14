@@ -185,7 +185,8 @@ import {
       designation: "COO",
       company: "Shabir Corp",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
+    
+        },
     {
       testimonial:
         "After Mughal optimized our website, our traffic increased by 50%. We can't thank them enough!",
